@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Sergio Silva</h1>
 <h3 align="center">(B.A./M.Sc.) Math - OpenGL - OpenCV - C/C++</h3>
-<img align="right" width="400" src="https://i.gifer.com/fetch/w300-preview/60/603d6f75fc3600b97e41266e6c9d4ab6.gif">
+<img align="right" width="400" src="https://media.giphy.com/media/XXIoRRjj4YSFvgPuMy/giphy.gif">
 
 - 🌱 I’m currently learning **Kotlin**
 
